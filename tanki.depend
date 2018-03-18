@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1521376735 source:c:\users\yello\downloads\console_project\tanki\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<conio.h>
+
