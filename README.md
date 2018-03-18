@@ -1,2 +1,3 @@
 # crazy-tanks-1
-The first version of crazy tanks with UI, simple bots and basic game logic
+The first version of crazy tanks with UI, simple bots and basic game logic -
+Игра реализована БЕЗ масивов; реализован интерфейс игры; реализованы простые боты и их поведение относительно игрока;реализована колизия с ботами и стенами; кол-во хитпоинтов; изменения настроек игры в меню;
